@@ -47,7 +47,7 @@ On my PC, processing an aligned-FASTA with 28 sequences with 37 Mb length took a
 Go to `fastasc` directory and type:
 
 ```
-mkdir ./bin && crystal build --release -o ./bin/fastasc ./src/fastasc.cr
+mkdir ./bin && crystal build --release -o ./bin/ ./src/fastasc.cr
 ```
 This will compile the source code to an executable binary file (`./bin/fastasc`).  
 Crystal language can be easily installed by following [Crystal Docs](https://crystal-lang.org/install/).
