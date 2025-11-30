@@ -1,5 +1,6 @@
 # fastasc
 Remove completely/partially invariant sites from nucleotide aligned-FASTA for Lewis's ascertainment bias correction ( +ASC ).  
+[![DOI](https://zenodo.org/badge/1106867270.svg)](https://doi.org/10.5281/zenodo.17768093)  
 
 ![abst](./img/fastasc_abst.jpg)
   
